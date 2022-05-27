@@ -6,8 +6,10 @@
 
 + Anaconda: 
   + Install Anaconda following the steps [here](https://docs.anaconda.com/anaconda/install/)
-  + On completing the installation create a conda environment using the following command: `conda create -n tutorial python=3.8`
+  + On completing the installation, open a terminal and create a conda environment using the following command: `conda create -n tutorial python=3.8`
   + Activate the environment: `conda activate tutorial`
+  + To connect your environment to the jupyter notebook kernel, run `conda install nb_conda` only after activating your environment.
+  + Run `jupyter notebook` on the terminal to access notebooks (will be shared during the tutorials)
 
 + GitHub: 
   +  If you are new to the Git world, use the steps [here](https://github.com/git-guides/install-git) to install git in your machine. 
