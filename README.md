@@ -16,3 +16,5 @@
   +  You can use the code in this repo without installing Git as well by downloading the zip version from [here](https://github.com/DebanjanaKar/IBM_IEEE_AIStat_Workshop/archive/refs/heads/main.zip).
 
 + Finally install the required python packages using: `pip install -r requirements.txt`
+
+### Note: Check the respective folders for further session-specific pre-requisites.
