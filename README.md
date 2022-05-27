@@ -1,4 +1,4 @@
-# IBM_IEEE_NLPTutorial
+# IBM_IEEE_AIStat_Workshop
 
 ## Requirements:
 
@@ -11,13 +11,13 @@
 
 + GitHub: 
   +  If you are new to the Git world, use the steps [here](https://github.com/git-guides/install-git) to install git in your machine. 
-  +  Once installed, clone this repo using `git clone git@github.com:DebanjanaKar/IBM_IEEE_NLPTutorial.git`
-  +  Next step: `cd IBM_IEEE_NLPTutorial`
-  +  You can use the code in this repo without installing Git as well by downloading the zip version from [here](https://github.com/DebanjanaKar/IBM_IEEE_NLPTutorial/archive/refs/heads/master.zip).
+  +  Once installed, clone this repo using `git clone git@github.com:DebanjanaKar/IBM_IEEE_AIStat_Workshop.git`
+  +  Next step: `cd IBM_IEEE_AIStat_Workshop`
+  +  You can use the code in this repo without installing Git as well by downloading the zip version from [here](https://github.com/DebanjanaKar/IBM_IEEE_AIStat_Workshop/archive/refs/heads/main.zip).
 
 + Finally install the required python packages using: `pip install -r requirements.txt`
 
 
 ## Dataset: 
 
-We will be using the News Category Dataset. It contains headlines and news descriptions for 30 different categories from HuffPost articles from 2012 to 2018. Please download the dataset from [this link](https://www.kaggle.com/datasets/rmisra/news-category-dataset) and place the json file in the cloned `IBM_IEEE_NLPTutorial` folder.
+We will be using the News Category Dataset. It contains headlines and news descriptions for 30 different categories from HuffPost articles from 2012 to 2018. Please download the dataset from [this link](https://www.kaggle.com/datasets/rmisra/news-category-dataset) and place the json file in the cloned `IBM_IEEE_AIStat_Workshop` folder.
