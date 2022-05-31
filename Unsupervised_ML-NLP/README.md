@@ -4,3 +4,4 @@
 ```
 python3 -m spacy download en
 ```
+Recording: https://youtu.be/1Romcdlckqo
