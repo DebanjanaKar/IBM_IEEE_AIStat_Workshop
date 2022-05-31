@@ -13,7 +13,7 @@
 
 + GitHub: 
   +  If you are new to the Git world, use the steps [here](https://github.com/git-guides/install-git) to install git in your machine. 
-  +  Once installed, clone this repo using `git clone git@github.com:DebanjanaKar/IBM_IEEE_AIStat_Workshop.git`
+  +  Once installed, clone this repo using `git clone https://github.com/DebanjanaKar/IBM_IEEE_AIStat_Workshop.git`
   +  Next step: `cd IBM_IEEE_AIStat_Workshop`
   +  You can use the code in this repo without installing Git as well by downloading the zip version from [here](https://github.com/DebanjanaKar/IBM_IEEE_AIStat_Workshop/archive/refs/heads/main.zip).
 
